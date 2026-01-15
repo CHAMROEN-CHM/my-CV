@@ -1,3 +1,30 @@
-#body {
-  background-color: rgb(76, 79, 86);
+/*color the background of the body part*/
+body {
+  background-color: rgb(185, 192, 207);
+}
+
+#image {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+#name {
+  margin-top: 40px;
+  color: rgb(61, 99, 99);
+  font-family: monospace;
+  font-size: 35px;
+}
+#ps {
+  color: rgb(23, 58, 58);
+}
+
+#p1,
+#p2 {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+#p3,
+#p4,
+#p5 {
+  text-align: right;
 }
