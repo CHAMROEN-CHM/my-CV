@@ -1,6 +1,6 @@
 /*color the background of the body part*/
 body {
-  background-color: rgb(185, 192, 207);
+  background-color: rgb(227, 213, 236);
 }
 
 #image {
@@ -9,28 +9,54 @@ body {
 }
 #name {
   margin-top: 40px;
-  color: rgb(61, 99, 99);
-  font-family: monospace;
+  color: rgb(26, 80, 112);
+  font-family: Bahnschrift SemiCondensed;
   font-size: 35px;
 }
-#ps {
-  color: rgb(23, 58, 58);
+#ps,
+#c1,
+#m1,
+#p3,
+#p4,
+#p5,
+#e1,
+#i2,
+#s2 {
+  color: rgb(65, 64, 74);
+  font-family: Arial Narrow;
 }
 
 #p1,
 #p2 {
   margin-left: 10px;
-  font-size: 20px;
+  font-size: 15px;
+  font-family: Arial Narrow;
 }
 
 #p3,
 #p4,
 #p5 {
-  text-align: right;
+  text-align: left;
+  margin-left: 500px;
 }
 
-div {
-  float: right;
-  margin-top: 20px;
-  margin-right: 400px;
+#info {
+  color: rgb(30, 37, 117);
+  font-family: Arial Narrow;
+}
+
+#pro,
+#we,
+#ts,
+#edu,
+#ih,
+#add,
+#cyber,
+#mini,
+#con,
+#i1,
+#s1,
+#cp {
+  font-family: Bahnschrift SemiCondensed;
+  color: rgb(26, 80, 112);
 }
